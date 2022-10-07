@@ -1,0 +1,7 @@
+.feedbacks__photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: black 2px solid;
+  object-fit: cover;
+}

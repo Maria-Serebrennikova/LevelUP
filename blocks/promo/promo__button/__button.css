@@ -1,0 +1,13 @@
+.promo__button{
+  margin-top: 100px;
+  margin-left: 150px;
+  width: 420px;
+  height: 50px;
+  background-color: #ffa500;
+  border-radius: 6px;
+  border: none;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 25px;
+  color: #000000;
+}

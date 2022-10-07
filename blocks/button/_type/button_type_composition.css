@@ -1,0 +1,7 @@
+.button_type_composition{
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  transform: translate(-50%,-50%);
+  border: black 1px solid;
+}

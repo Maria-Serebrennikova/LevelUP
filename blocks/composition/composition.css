@@ -1,0 +1,8 @@
+.composition{
+  position: relative;
+  background-image: url('/images/patternn.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 50px 30px 100px;
+}

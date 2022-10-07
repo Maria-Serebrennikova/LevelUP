@@ -1,0 +1,4 @@
+.promo_type_reverse{
+  flex-direction: column-reverse;
+  background-image: radial-gradient(at 40px 50px, rgb(15, 1, 17), #d975f5);
+}

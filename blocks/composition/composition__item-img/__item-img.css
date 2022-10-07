@@ -1,0 +1,6 @@
+.composition__item-img{
+  border-radius: 50%;
+  width: 50%;
+  margin: 20px;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.8);
+}

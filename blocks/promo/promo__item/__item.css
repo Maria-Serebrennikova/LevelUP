@@ -1,0 +1,7 @@
+.promo__item{
+  list-style-type:square;
+  font-size: 26px;
+  line-height: 58px;
+  font-weight: 700;
+  color: white;
+}

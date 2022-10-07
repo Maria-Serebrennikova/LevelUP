@@ -1,0 +1,9 @@
+.feedbacks__item{
+border: black 1px solid;
+padding: 20px 30px;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+height: 300px;
+max-width: 80%;
+}

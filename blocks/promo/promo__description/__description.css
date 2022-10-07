@@ -1,0 +1,7 @@
+.promo__description{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+height: 550px;
+margin-top: 50px;
+}
