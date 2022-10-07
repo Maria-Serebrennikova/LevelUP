@@ -4,8 +4,18 @@
   left: 50%;
   transform: translate(-50%,-50%);
 }
+ @media (max-width: 933px) {
+  .composition__image{
+    width: 200px;
+    height: 300px;
+    left: 53%;
+  }
+}
 
-/*
-  position: absolute;
-  top: calc(50% - 500px);
-  left: calc(50% - 500px); */
+@media (max-width: 680px) {
+  .composition__image{
+    width: 100px;
+    height: 200px;
+    left: 53%;
+  }
+}

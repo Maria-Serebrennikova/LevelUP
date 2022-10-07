@@ -7,3 +7,15 @@ box-sizing: border-box;
 max-width: 50%;
 margin-top: 90px;
 }
+
+@media (max-width: 1080px) {
+  .feedbacks__text{
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 787px) {
+  .feedbacks__text{
+    font-size: 14px;
+  }
+}

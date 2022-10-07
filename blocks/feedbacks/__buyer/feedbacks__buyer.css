@@ -2,5 +2,10 @@
   font-weight: 600;
   font-size: 40px;
   line-height: 12px;
+}
 
+@media (max-width: 1080px) {
+  .feedbacks__buyer{
+    font-size: 25px;
+  }
 }

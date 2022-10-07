@@ -1,0 +1,9 @@
+.form__new-price{
+  font-size: 24px;
+}
+
+@media (max-width: 666px) {
+  .form__new-price{
+    font-size: 14px;
+  }
+}

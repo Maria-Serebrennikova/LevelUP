@@ -1,0 +1,12 @@
+.form__line{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.form__line:first-child {
+  padding-bottom: 16px;
+  border-bottom: 1px solid #e8e8e8;
+  margin-top: 0;
+}
+

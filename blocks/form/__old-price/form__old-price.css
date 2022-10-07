@@ -1,0 +1,16 @@
+.form__old-price{
+font-size: 24px;
+}
+
+@media (max-width: 847px) {
+  .form__old-price{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 666px) {
+  .form__old-price{
+    font-size: 14px;
+  }
+}
+

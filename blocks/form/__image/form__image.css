@@ -1,0 +1,19 @@
+.form__image{
+    max-width: 300px;
+    height: 400px;
+    align-self: center;
+}
+
+@media (max-width: 1080px) {
+  .form__image{
+    max-width: 200px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 787px) {
+  .form__image{
+    max-width: 100px;
+    height: 200px;
+  }
+}

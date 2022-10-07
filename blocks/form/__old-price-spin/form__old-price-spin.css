@@ -1,0 +1,11 @@
+.form__old-price-spin{
+color: red;
+font-weight: 700;
+text-decoration: line-through;
+}
+
+@media (max-width: 847px) {
+  .form__old-price-spin{
+    font-size: 20px;
+  }
+}

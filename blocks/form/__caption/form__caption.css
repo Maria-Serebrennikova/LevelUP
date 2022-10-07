@@ -1,0 +1,13 @@
+.form__caption{
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  align-self: flex-end;
+ }
+
+ @media (max-width: 1080px) {
+  .form__caption{
+    font-size: 14px;
+  }
+}

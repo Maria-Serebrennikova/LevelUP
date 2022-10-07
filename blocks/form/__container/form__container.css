@@ -1,0 +1,25 @@
+.form__container{
+max-height: 600px;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+margin-top: 30px;
+}
+
+@media (max-width: 1080px) {
+  .form__container{
+    max-height: 500px;
+}
+}
+
+@media (max-width: 787px) {
+  .form__container{
+    max-height: 400px;
+}
+}
+
+@media (max-width: 666px) {
+  .form__container{
+    max-height: 350px;
+}
+}

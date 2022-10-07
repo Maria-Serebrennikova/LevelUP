@@ -2,6 +2,18 @@
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
-height: 550px;
+height: 500px;
 margin-top: 50px;
 }
+
+/* @media (max-width: 933px) {
+  .promo__description {
+    height: 480px;
+  }
+}
+
+@media (max-width: 676px) {
+  .promo__description {
+    height: 400px;
+  }
+} */

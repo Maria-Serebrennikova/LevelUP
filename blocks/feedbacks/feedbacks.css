@@ -1,0 +1,7 @@
+.feedbacks{
+  background: linear-gradient(60deg, #40053a, #e4bccf);
+  height: 1000px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

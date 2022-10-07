@@ -5,3 +5,16 @@
   margin-top: 70px;
   color: beige;
 }
+
+@media (max-width: 1080px) {
+  .promo__text{
+    font-size: 20px;
+  }
+}
+
+
+@media (max-width: 769px) {
+  .promo__text{
+    font-size: 16px;
+  }
+}

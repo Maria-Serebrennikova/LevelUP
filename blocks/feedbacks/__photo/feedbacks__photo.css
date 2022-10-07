@@ -5,3 +5,8 @@
   border: black 2px solid;
   object-fit: cover;
 }
+@media (max-width: 1080px) {
+  .feedbacks__photo {
+    height: 180px;
+  }
+}

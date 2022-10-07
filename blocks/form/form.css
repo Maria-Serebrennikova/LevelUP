@@ -1,0 +1,12 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  max-width: 80%;
+  padding: 20px;
+  margin: 0;
+  border: blueviolet 3px solid;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
+  margin: 20px auto;
+}
+

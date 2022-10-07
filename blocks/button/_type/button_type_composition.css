@@ -5,3 +5,29 @@
   transform: translate(-50%,-50%);
   border: black 1px solid;
 }
+
+@media (max-width: 1080px) {
+  .button_type_composition{
+    top: 90%;
+    left: 35%;
+  }
+}
+
+@media (max-width: 933px) {
+  .button_type_composition{
+    left: 33%;
+  }
+}
+
+@media (max-width: 769px) {
+  .button_type_composition{
+    left: 45%;
+  }
+}
+
+@media (max-width: 769px) {
+  .button_type_composition{
+width: 150px;
+font-size: 30px;
+}
+}

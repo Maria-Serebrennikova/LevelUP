@@ -1,0 +1,24 @@
+.form__content{
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 13px;
+  text-align: right;
+  color: #000000;
+  border:blueviolet 2px solid;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+}
+
+@media (max-width: 1080px) {
+  .form__content{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 847px) {
+  .form__content{
+    font-size: 14px;
+  }
+}
